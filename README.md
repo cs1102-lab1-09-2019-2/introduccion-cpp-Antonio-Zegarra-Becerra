@@ -1,9 +1,9 @@
 # Ejercicios usando c++
 
-Nombre:
+Nombre: Antonio Manuel Zegarra Becerra
 --
 
-Github Username:
+Github Username: Antonio-Zegarra Becerra
 --
 
 Instrucciones:
