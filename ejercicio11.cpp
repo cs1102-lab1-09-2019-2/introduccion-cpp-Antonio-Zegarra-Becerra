@@ -1,3 +1,5 @@
+#include <iostream>
+
 
 bool esPalindromo(int n) {
     bool palindromo = true;
