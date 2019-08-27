@@ -1,5 +1,11 @@
 # Ejercicios usando c++
 
+Nota:
+--
+Antonio-Zegarra-Becerra/.................8..................5.................8/13..............12.30
+
+
+
 Nombre: Antonio Manuel Zegarra Becerra
 --
 
